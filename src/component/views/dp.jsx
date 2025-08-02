@@ -2,7 +2,7 @@ import prajwalDp from '/prajwalDp.png'
 export function Dp(){
   return (
   <>
-  <img className="h-100 w-100" src={prajwalDp} alt="" />
+  <img className="h-120 w-120" src={prajwalDp} alt="" />
   </>
   );
 }

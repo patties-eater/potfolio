@@ -4,8 +4,9 @@ export function FirstPage(){
   return(
     <>
     <Nav/>
-    <Intro></Intro>
-    
+    <div className="intro pt-15">
+       <Intro></Intro>
+    </div>
     </>
   );
 
