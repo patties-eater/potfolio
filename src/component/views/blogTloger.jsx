@@ -103,8 +103,8 @@ export function BlogTloger() {
       </div>
 
       {/* Text Content */}
-      <h2 className="text-2xl font-bold mt-6">{project.title}</h2>
-      <p className="text-gray-700 text-center max-w-xl mt-2">{project.description}</p>
+      <h2 className="text-3xl font-bold mt-6">{project.title}</h2>
+      <p className="text-gray-700 text-center text-2xl max-w-xl ">{project.description}</p>
 
       {/* GitHub & Live Links */}
       <div className="flex gap-6 mt-4">
@@ -114,7 +114,7 @@ export function BlogTloger() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          GitHub Repository <img className="h-4 w-4 ml-2" src={Go} alt="GitHub" />
+          <h1 className='text-4xl'>  GitHub Repository</h1>  <img className="h-4 w-4 ml-2" src={Go} alt="GitHub" />
         </a>
         <a
           className="text-blue-800 font-semibold flex items-center hover:underline"
@@ -122,7 +122,7 @@ export function BlogTloger() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          See Live <img className="h-4 w-4 ml-2" src={Go} alt="Live" />
+          <h1 className='text-4xl'>See Live</h1> <img className="h-4 w-4 ml-2" src={Go} alt="Live" />
         </a>
       </div>
     </div>
