@@ -1,4 +1,4 @@
-import { NavItems } from "../views/navItems";
+import { NavItems } from "../views/NavItems";
 
 export function Nav(){
   return(
