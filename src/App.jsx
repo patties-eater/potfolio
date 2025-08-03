@@ -7,7 +7,7 @@ function App() {
   
  
   return (
-    <div className="myApp h-1000 w-500 flex items-center  ml-[10%] flex-col   sticky  top-0">
+    <div className="myApp h-screen w-screen flex   justify-center  bg-gray-100">
 
      <div className=' border   items-center '>
       
