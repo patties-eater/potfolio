@@ -114,7 +114,7 @@ export function BlogTloger() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h1 className='text-4xl'>  GitHub Repository</h1>  <img className="h-4 w-4 ml-2" src={Go} alt="GitHub" />
+          <h1 className='text-4xl'>  GitHub Repository</h1>  <img className="h-8 w-8 ml-4" src={Go} alt="GitHub" />
         </a>
         <a
           className="text-blue-800 font-semibold flex items-center hover:underline"
@@ -122,7 +122,7 @@ export function BlogTloger() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h1 className='text-4xl'>See Live</h1> <img className="h-4 w-4 ml-2" src={Go} alt="Live" />
+          <h1 className='text-4xl'>See Live</h1> <img className="h-8 w-8 ml-4" src={Go} alt="Live" />
         </a>
       </div>
     </div>
