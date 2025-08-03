@@ -1,6 +1,6 @@
 export function NavItems(){
 
-  const navItems = ["Contact" , "Blog" , "work"];
+  const navItems = ["Contact" , "Blog","Projects" , "work"];
   return (
     <>
 

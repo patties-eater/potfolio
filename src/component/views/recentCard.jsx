@@ -31,7 +31,7 @@ export function RecentCard() {
     <div className="recentCard flex justify-between ml-50 mr-50">
       {
         cardItems.map((task, index) => (
-          <div key={index} className="Card h-90 w-100 bg-white  pr-7 pl-5 mt-10">
+          <div key={index} className="Card h-90 w-100 bg-white  pr-7 pl-5 mr-10 mt-10">
             <div className="inide mt-7 ">
               
             <h1 className="text-3xl font-bold">{task.Headers}</h1>

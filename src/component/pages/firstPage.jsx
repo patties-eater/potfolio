@@ -4,7 +4,7 @@ export function FirstPage(){
   return(
     <>
     <Nav/>
-    <div className="intro pt-15">
+    <div className="intro">
        <Intro></Intro>
     </div>
     </>
