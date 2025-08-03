@@ -11,16 +11,16 @@ export function BlogTloger() {
       title: "Amity App",
       description: "Manage school like a boss. Built by high schoolers, used by 300+ students & teachers.",
       github: "https://github.com/Kharaayo-Edu",
-      live: "https://blogs.srijankharel.com.np/projects/amity-app",
-      seeMoreLink: "https://your-project-link.com/amity",
+      live: "https://amity.kharaayo.com/",
+      seeMoreLink: "https://blogs-ed8.pages.dev/projects/amity-app",
       image: AmityImage
     },
     {
       title: "PhishNet-Nepal",
       description: "How PhishNet Helps You Spot and Stop Phishing Attack",
       github: "https://github.com/Kharaayo-Edu",
-      live: "https://blogs.srijankharel.com.np/projects/phishnet",
-      seeMoreLink: "https://your-project-link.com/phishnet",
+      live: "https://www.phishnet.srijankharel.com.np/",
+      seeMoreLink: "https://blogs-ed8.pages.dev/projects/phishnet",
       image: PhishNetImage
     }
   ];
