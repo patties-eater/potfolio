@@ -36,7 +36,7 @@ export function ReviewList() {
       <h2 className="text-3xl font-bold mb-2">
         What <span className="text-blue-600">My Clients</span> Say
       </h2>
-      <p className="text-gray-500 mb-8">Hear Directly From Our Satisfied Partners</p>
+      <p className="text-gray-500 mb-8">Hear Directly From Other Satisfied Partners</p>
 
       <Swiper
         modules={[Navigation, Pagination, A11y]}
