@@ -4,6 +4,7 @@ import { FirstPage } from './component/pages/firstPage'
 import { SecondPage } from './component/pages/secondpage'
 import { ThirdPage } from './component/pages/thirdpage'
 import { FourthPage } from './component/pages/fourthpage'
+import { FifthPage } from './component/pages/fifthpage'
 function App() {
   
  
@@ -16,6 +17,9 @@ function App() {
       <SecondPage />
       <ThirdPage />
       <FourthPage />
+      <FifthPage />
+      
+      {/* Add any additional components or sections here */}
      </div>
       
     </div>

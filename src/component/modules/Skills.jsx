@@ -35,7 +35,7 @@ export function Skills() {
   ];
 
   return (
-    <div className="w-full bg-blue-100 mt-10 py-12 px-6">
+    <div className=" bg-blue-100 mt-10 py-12 px-6">
       <h1 className="text-3xl font-bold text-center text-gray-800 mb-10" > My Tech Stack / Skills</h1>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 place-items-center">
         {SkillsData.map((skill, index) => (
