@@ -34,7 +34,7 @@ export function ReviewList() {
   return (
     <div className="reviews px-4 py-12 max-w-6xl mx-auto text-center">
       <h2 className="text-3xl font-bold mb-2">
-        What <span className="text-blue-600">Our Clients</span> Say
+        What <span className="text-blue-600">My Clients</span> Say
       </h2>
       <p className="text-gray-500 mb-8">Hear Directly From Our Satisfied Partners</p>
 
